@@ -1,0 +1,69 @@
+﻿<Page x:Class="DigitalerPlanstempel.ComparisonPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DigitalerPlanstempel"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="800"
+      Title="Vergleichen">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center" Height="25" Width="50" Click="ClickOnZurueck" Background="LightGray">Restart</Button>
+
+        <Button Grid.Row="1" HorizontalAlignment="Left" Content="Modell in Neo4j laden" VerticalAlignment="Center" Height="25" Width="150"  Click="ClickOnModelToNeo4j"  Margin="19,18,0,17" Background="LightSteelBlue"/>
+
+        <Label Grid.Row="1" Content="Signatur des geprüften Gebäudemodells ist verifiziert worden." Name="LabelSignaturVerifizierung" HorizontalAlignment="Center" Margin="225,17,219,0" Visibility="Hidden" Width="348"/>
+
+        <Button Grid.Row="1" Content="Schablone erstellen" HorizontalAlignment="Right"  VerticalAlignment="Center" Height="25" Width="150"   Click="ClickOnSchablone"  Margin="0,18,18,17" Background="LightSteelBlue"/>
+        <Button Grid.Row="2" Content="Vergleichen" Name="VergleichenButton" HorizontalAlignment="Center" VerticalAlignment="Center" Height="25" Width="150" Click="ClickOnComparison" Background="LightSteelBlue" Visibility="Hidden"/>
+
+        <Grid Grid.Row="3" Name="ComparisonGrid" Visibility="Hidden">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="105"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="45"/>
+            </Grid.RowDefinitions>
+            <Border Padding="10">
+                <StackPanel Grid.Row="0" Name="ComparisonRadioButton">
+                    <Label Content="Das ausgewählte Element wird in der Auflistung dargestellt."/>
+                    <RadioButton GroupName="RadioButtonComparison" Content="Wände" Checked="RadioButtonElement_Checked"/>
+                    <RadioButton GroupName="RadioButtonComparison" Content="Fenster" Checked="RadioButtonElement_Checked"/>
+                    <RadioButton GroupName="RadioButtonComparison" Content="Türen" Checked="RadioButtonElement_Checked"/>
+                    <RadioButton GroupName="RadioButtonComparison" Content="Alle genannten Optionen" Checked="RadioButtonElement_Checked" IsChecked="True"/>
+                </StackPanel>
+            </Border>
+            <Label Grid.Row="1" Content="Folgende Elemente sind neu hinzugefügt worden." Padding="10"/>
+            <ListView Grid.Row="2" Name="NewElements" Margin="10" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="{x:Type ListViewItem}">
+                        <Setter Property="BorderBrush" Value="LightGray" />
+                        <Setter Property="BorderThickness" Value="0,0,0,1" />
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Stockwerk" Width="Auto" DisplayMemberBinding="{Binding StoreyName}" />
+                        <GridViewColumn Header="Wand-Id" Width="Auto" DisplayMemberBinding="{Binding WallGlobalId}" />
+                        <GridViewColumn Header="Wandeigenschaft" Width="Auto" DisplayMemberBinding="{Binding WallPropertyName}" />
+                        <GridViewColumn Header="Wandbauteil" Width="Auto" DisplayMemberBinding="{Binding WallElement}"/>
+                        <GridViewColumn Header="Wandbauteil-Id" Width="Auto" DisplayMemberBinding="{Binding WallElementGlobalId}"/>
+                        <GridViewColumn Header="Wandbauteileigenschaft" Width="Auto" DisplayMemberBinding="{Binding WallElementPropertyName}"/>
+                        <GridViewColumn Header="Status" Width="Auto" DisplayMemberBinding="{Binding Status}"/>
+                        <GridViewColumn Header="Alter Wert" Width="Auto" DisplayMemberBinding="{Binding OldValue}"/>
+                        <GridViewColumn Header="Neuer Wert" Width="Auto" DisplayMemberBinding="{Binding NewValue}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Button Grid.Row="3" Content="Grafisch darstellen" Height="30" Width="100" Click="ClickOnGrafischDarstellen" Background="LightSteelBlue"/>
+        </Grid>
+    </Grid>
+</Page>

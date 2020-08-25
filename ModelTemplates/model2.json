@@ -1,0 +1,1364 @@
+{
+  "BuildingHash": "e92dfdc58afcb73e38c6f5e11efcdce0eb21438c2d91181ec373e5d06b590707",
+  "AllStoreys": [
+    {
+      "StoreyHash": "60fcd58912344559096d5f3db36d1a58a8928b9d79f97dec6c8d1d8abf8551a8",
+      "StoreyName": "'Erdgeschoss'",
+      "AllWalls": [
+        {
+          "WallHash": "b8660a871b86e411f90e2950cbb1855a272fd4ff58189a5da0c33ace97182474",
+          "GlobalId": "'1bzfVsJqn8De5PukCrqylz'",
+          "StartPoint": {
+            "PointHash": "FAE2B750AAD41970F41B62551424BAE7",
+            "X": "0,00",
+            "Y": "9,85",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "b1711fa241c9320404989ec339a3c7f6",
+            "X": "12",
+            "Y": "9,85",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "AC8121293DA64124812AF536C14FE72C",
+              "PropertyName": "Height",
+              "PropertyValue": "2,7"
+            },
+            {
+              "PropertyHash": "676543FF1BF56E89329DB977C7BF983F",
+              "PropertyName": "Length",
+              "PropertyValue": "12"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "9468F0A48C04E91CA02C48AE0330A8BD",
+              "PropertyName": "Material",
+              "PropertyValue": "'Concrete Masonry Units'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Ext-ERDG-2'"
+            },
+            {
+              "PropertyHash": "AF0D4DA5CB1235BEB5D285E31859B4CC",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(4.33333333333333)"
+            },
+            {
+              "PropertyHash": "90B8B59ADE6D43980808461B90A83FC4",
+              "PropertyName": "Width",
+              "PropertyValue": "0,3"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": [
+            {
+              "WindowHash": "11be00e25ec9fb087077438989d7f2aca55585c808fd9ef78c2efabae96dd7d0",
+              "GlobalId": "'1TAI4ouKX4Xx4lBDZIu5qM'",
+              "StartPoint": {
+                "PointHash": "62DBB2144D1626D0F892D06412DE1FC4",
+                "X": "1,05",
+                "Y": "10,17",
+                "Z": "0,80"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "F53DDF31F3BCB94FD17E2A64F44FA513",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1,2"
+                },
+                {
+                  "PropertyHash": "BA49FCACBF2321E31B23339ED86A5EA3",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer und 'Glas' und 'Kiefer'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'EG-Fenster-6 23024 41023:EG-Fenster-6 23024 41023:207524'"
+                },
+                {
+                  "PropertyHash": "3B5B79B1E8CE5E88BB444D735187D92F",
+                  "PropertyName": "Width",
+                  "PropertyValue": "2"
+                }
+              ]
+            },
+            {
+              "WindowHash": "87ab33edfc226d3982e1c91264aa640bf1c6925d62d6a50b29bde20f94dc4bda",
+              "GlobalId": "'2Q9w7oRXP249jBobEMVqlZ'",
+              "StartPoint": {
+                "PointHash": "70986B79137F8BE90435EA3996818F9E",
+                "X": "4,66",
+                "Y": "10,17",
+                "Z": "0,80"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "F53DDF31F3BCB94FD17E2A64F44FA513",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1,2"
+                },
+                {
+                  "PropertyHash": "BA49FCACBF2321E31B23339ED86A5EA3",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer und 'Glas' und 'Kiefer'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'EG-Fenster-6 23024 41023:EG-Fenster-6 23024 41023:207525'"
+                },
+                {
+                  "PropertyHash": "3B5B79B1E8CE5E88BB444D735187D92F",
+                  "PropertyName": "Width",
+                  "PropertyValue": "2"
+                }
+              ]
+            },
+            {
+              "WindowHash": "4396596e980b161b82c215c2d07d2d49fcffa6b70d495bfc08648d8fb1838e3a",
+              "GlobalId": "'1DiYqhfzH9xxuJdVHwXCNa'",
+              "StartPoint": {
+                "PointHash": "BB567FBCFCCBE1AB929FE55987EC41E2",
+                "X": "8,80",
+                "Y": "10,17",
+                "Z": "0,80"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "F53DDF31F3BCB94FD17E2A64F44FA513",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1,2"
+                },
+                {
+                  "PropertyHash": "BA49FCACBF2321E31B23339ED86A5EA3",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer und 'Glas' und 'Kiefer'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'EG-Fenster-6 23024 41023:EG-Fenster-6 23024 41023:207526'"
+                },
+                {
+                  "PropertyHash": "3B5B79B1E8CE5E88BB444D735187D92F",
+                  "PropertyName": "Width",
+                  "PropertyValue": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "WallHash": "ee226308e7bef83db4fe35ab9065ee9de8eb8659ebb58cdfd06663914f18e303",
+          "GlobalId": "'3rPX_Juz59peXXY6wDJl18'",
+          "StartPoint": {
+            "PointHash": "9ED84620BC61879EA1182C4FFC9B2AEA",
+            "X": "0,15",
+            "Y": "0,00",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "700f5d920ece9444cfbda8db20142d57",
+            "X": "0,15",
+            "Y": "9,7",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "AC8121293DA64124812AF536C14FE72C",
+              "PropertyName": "Height",
+              "PropertyValue": "2,7"
+            },
+            {
+              "PropertyHash": "8BD8F29481A0653AC4785EBDFBEECE76",
+              "PropertyName": "Length",
+              "PropertyValue": "9,7"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Ext-ERDG-1'"
+            },
+            {
+              "PropertyHash": "1FBA7974A9D6663BA02E5F2E66CEF4DC",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(0.4)"
+            },
+            {
+              "PropertyHash": "90B8B59ADE6D43980808461B90A83FC4",
+              "PropertyName": "Width",
+              "PropertyValue": "0,3"
+            }
+          ],
+          "AllDoors": [
+            {
+              "DoorHash": "27a512d1807de05ddd7da980e1c2833db1fae4b7515ea3079a354eb59bed6e0c",
+              "GlobalId": "'2jTRqchjf7oB0yhQ6462T0'",
+              "StartPoint": {
+                "PointHash": "18CDB097F08DCDC4844E47419078F9F5",
+                "X": "-0,17",
+                "Y": "4,41",
+                "Z": "0,00"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "5C44C4544C4AE24DD015F379096E567A",
+                  "PropertyName": "Height",
+                  "PropertyValue": "2,01"
+                },
+                {
+                  "PropertyHash": "6482F6B0792F3CFA4A2B8BA87EA3A4DF",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kupfer' und 'Kiefer"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'Haustuer 27013:Haustuer 27013:207515'"
+                },
+                {
+                  "PropertyHash": "ABC8A643A2315F2A3DEDC83DE03720EF",
+                  "PropertyName": "Width",
+                  "PropertyValue": "1,01"
+                }
+              ]
+            }
+          ],
+          "AllWindows": [
+            {
+              "WindowHash": "770375e86693954b8c02ea7a7cae6ada9ecff5c95feb97461165c75709c96423",
+              "GlobalId": "'1srAI$R4T8ihLXSNHmUSET'",
+              "StartPoint": {
+                "PointHash": "C37548E80CD3E1FFDCD577CA81204344",
+                "X": "-0,17",
+                "Y": "6,50",
+                "Z": "0,80"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "F53DDF31F3BCB94FD17E2A64F44FA513",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1,2"
+                },
+                {
+                  "PropertyHash": "BA49FCACBF2321E31B23339ED86A5EA3",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer und 'Glas' und 'Kiefer'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'EG-Fenster-6 23024:EG-Fenster-6 23024:207513'"
+                },
+                {
+                  "PropertyHash": "3B5B79B1E8CE5E88BB444D735187D92F",
+                  "PropertyName": "Width",
+                  "PropertyValue": "2"
+                }
+              ]
+            },
+            {
+              "WindowHash": "c581b413ac06ec04ce178903f6afb478f18aea67981c6edd7f0c4a55daae8752",
+              "GlobalId": "'0B1RwEzzP3CfME5NR$Vqh5'",
+              "StartPoint": {
+                "PointHash": "3397E2F171A853EC35881A66736E1C23",
+                "X": "-0,17",
+                "Y": "1,21",
+                "Z": "0,95"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "F53DDF31F3BCB94FD17E2A64F44FA513",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1,2"
+                },
+                {
+                  "PropertyHash": "BA49FCACBF2321E31B23339ED86A5EA3",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer und 'Glas' und 'Kiefer'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'EG-Fenster-7 23944:EG-Fenster-7 23944:207514'"
+                },
+                {
+                  "PropertyHash": "3B5B79B1E8CE5E88BB444D735187D92F",
+                  "PropertyName": "Width",
+                  "PropertyValue": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "WallHash": "f2041147011975d09a3ad155c8c27f801fdf3c5320a2a1c9ed65ae6bcb08cdc5",
+          "GlobalId": "'1$wmdwWPjDYuku_ghVkynE'",
+          "StartPoint": {
+            "PointHash": "E453DD920A7BEB31DF9EB5E256E368AB",
+            "X": "0,30",
+            "Y": "4,13",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "9c8ef911138d3fbabe49e065e72079f2",
+            "X": "6,3",
+            "Y": "4,13",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "7D2C76C4A1894119F7E1F60AD45609AC",
+              "PropertyName": "Height",
+              "PropertyValue": "2,5"
+            },
+            {
+              "PropertyHash": "49CE711FA119A3B2088FB96FE354A735",
+              "PropertyName": "Length",
+              "PropertyValue": "6"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Int-ERDG-5'"
+            },
+            {
+              "PropertyHash": "C8160060E6DBB2E453BBF4F6DD95C496",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(1.5)"
+            },
+            {
+              "PropertyHash": "2835E004A680F9C4993222283A410EED",
+              "PropertyName": "Width",
+              "PropertyValue": "0,24"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": []
+        },
+        {
+          "WallHash": "5c7abd503d17a2edc74cc932e2b11f9a04abfea45b181f0931f432cae6143002",
+          "GlobalId": "'16DNNqzfP2thtfaOflvsKA'",
+          "StartPoint": {
+            "PointHash": "ADD8740F554855AB01F2909F9F2372C8",
+            "X": "11,70",
+            "Y": "0,15",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "59d2e138f67d07b6347e40b8746fc14d",
+            "X": "0,299999999999999",
+            "Y": "0,15",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "AC8121293DA64124812AF536C14FE72C",
+              "PropertyName": "Height",
+              "PropertyValue": "2,7"
+            },
+            {
+              "PropertyHash": "173D280E3DD8E0A164C32AD948DFB4B1",
+              "PropertyName": "Length",
+              "PropertyValue": "11,4"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Ext-ERDG-4'"
+            },
+            {
+              "PropertyHash": "1FBA7974A9D6663BA02E5F2E66CEF4DC",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(0.4)"
+            },
+            {
+              "PropertyHash": "90B8B59ADE6D43980808461B90A83FC4",
+              "PropertyName": "Width",
+              "PropertyValue": "0,3"
+            }
+          ],
+          "AllDoors": [
+            {
+              "DoorHash": "5855d4a0625211de328eeea16b48b0286a472d5dd369c1937d100327a4886f71",
+              "GlobalId": "'1M$gxUrX1Fiwe3P64ww7U5'",
+              "StartPoint": {
+                "PointHash": "48641A6F878E6660B4BA869DD0630D62",
+                "X": "5,00",
+                "Y": "-0,17",
+                "Z": "0,00"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "2B88D00B6E0C2DBE5746B60DB00DD1FC",
+                  "PropertyName": "Height",
+                  "PropertyValue": "2,38"
+                },
+                {
+                  "PropertyHash": "84951BF01A35112830C9A5862E824393",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Glas' und 'Kupfer' und 'Kiefer"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'Terrassentuer 31079:Terrassentuer 31079:207519'"
+                },
+                {
+                  "PropertyHash": "5C44C4544C4AE24DD015F379096E567A",
+                  "PropertyName": "Width",
+                  "PropertyValue": "2,01"
+                }
+              ]
+            }
+          ],
+          "AllWindows": [
+            {
+              "WindowHash": "6dc9c5b4955944a22af846103ba06fc95ea16b1538d9b8a560138a2bac6a3f29",
+              "GlobalId": "'3BFcylCsX74PQAoRAe5fNv'",
+              "StartPoint": {
+                "PointHash": "03BEB89B8F60C94EC995E731A75B1D77",
+                "X": "10,90",
+                "Y": "-0,17",
+                "Z": "1,01"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "F53DDF31F3BCB94FD17E2A64F44FA513",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1,2"
+                },
+                {
+                  "PropertyHash": "BA49FCACBF2321E31B23339ED86A5EA3",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer und 'Glas' und 'Kiefer'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'EG-Fenster-7 23944:EG-Fenster-7 23944:207518'"
+                },
+                {
+                  "PropertyHash": "3B5B79B1E8CE5E88BB444D735187D92F",
+                  "PropertyName": "Width",
+                  "PropertyValue": "2"
+                }
+              ]
+            },
+            {
+              "WindowHash": "078be0d0a053bc6272fb8310ae23dcebfdb6185b09fb40876e82a5b33ab388e6",
+              "GlobalId": "'25nJxEpYf8LRDJNkMUVO0m'",
+              "StartPoint": {
+                "PointHash": "075208B92390EE1184210824D38E63EB",
+                "X": "3,79",
+                "Y": "-0,17",
+                "Z": "0,95"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "F53DDF31F3BCB94FD17E2A64F44FA513",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1,2"
+                },
+                {
+                  "PropertyHash": "BA49FCACBF2321E31B23339ED86A5EA3",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer und 'Glas' und 'Kiefer'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'EG-Fenster-7 23944:EG-Fenster-7 23944:207517'"
+                },
+                {
+                  "PropertyHash": "3B5B79B1E8CE5E88BB444D735187D92F",
+                  "PropertyName": "Width",
+                  "PropertyValue": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "WallHash": "85db39e82ade5a379e2ce85305df966b47e1027ab9978e1935a24ee10700f0a1",
+          "GlobalId": "'25fsbPyk15VvuXI$yNKenK'",
+          "StartPoint": {
+            "PointHash": "1FF643EEE4FAC11BF4D6A3B9E4EBE8F2",
+            "X": "11,85",
+            "Y": "9,70",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "2aef81fb67873e7b9566e356a5efef48",
+            "X": "11,85",
+            "Y": "0",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "AC8121293DA64124812AF536C14FE72C",
+              "PropertyName": "Height",
+              "PropertyValue": "2,7"
+            },
+            {
+              "PropertyHash": "8BD8F29481A0653AC4785EBDFBEECE76",
+              "PropertyName": "Length",
+              "PropertyValue": "9,7"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Ext-ERDG-3'"
+            },
+            {
+              "PropertyHash": "1FBA7974A9D6663BA02E5F2E66CEF4DC",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(0.4)"
+            },
+            {
+              "PropertyHash": "90B8B59ADE6D43980808461B90A83FC4",
+              "PropertyName": "Width",
+              "PropertyValue": "0,3"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": [
+            {
+              "WindowHash": "31739b66598d2eb4c49a17c40f54ac0215dbcfefaefe0e27bb5805b88057098b",
+              "GlobalId": "'13aSY79zb8fP4HApEJ0z_e'",
+              "StartPoint": {
+                "PointHash": "37D69BCEA26533C0D91A9375DA072679",
+                "X": "12,17",
+                "Y": "8,50",
+                "Z": "0,80"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "F53DDF31F3BCB94FD17E2A64F44FA513",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1,2"
+                },
+                {
+                  "PropertyHash": "BA49FCACBF2321E31B23339ED86A5EA3",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer und 'Glas' und 'Kiefer'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'EG-Fenster-7 23944:EG-Fenster-7 23944:207521'"
+                },
+                {
+                  "PropertyHash": "3B5B79B1E8CE5E88BB444D735187D92F",
+                  "PropertyName": "Width",
+                  "PropertyValue": "2"
+                }
+              ]
+            },
+            {
+              "WindowHash": "8e4804d56f59dcaba9ffa5bf6a07f3c9b6a0049d063ba8764d21f4a76f030fae",
+              "GlobalId": "'2EQh_jhP1B_A_AMuSJc5E0'",
+              "StartPoint": {
+                "PointHash": "DFA21485F1D714BD9DC7C6D4ECB6374F",
+                "X": "12,17",
+                "Y": "3,21",
+                "Z": "0,80"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "F53DDF31F3BCB94FD17E2A64F44FA513",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1,2"
+                },
+                {
+                  "PropertyHash": "BA49FCACBF2321E31B23339ED86A5EA3",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer und 'Glas' und 'Kiefer'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'EG-Fenster-6 23024:EG-Fenster-6 23024:207522'"
+                },
+                {
+                  "PropertyHash": "3B5B79B1E8CE5E88BB444D735187D92F",
+                  "PropertyName": "Width",
+                  "PropertyValue": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "WallHash": "a90bb3f6d4d7e8c859263b75c2249432aac76643a9f6b15b3677647cdf692d64",
+          "GlobalId": "'3e9rWi4v13J9DADE7qDOE9'",
+          "StartPoint": {
+            "PointHash": "D15CF780AB43B3380EBCFA4F328E067B",
+            "X": "3,30",
+            "Y": "4,25",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "371b953d8be964a0e84a3d81371be072",
+            "X": "3,3",
+            "Y": "5,75",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "7D2C76C4A1894119F7E1F60AD45609AC",
+              "PropertyName": "Height",
+              "PropertyValue": "2,5"
+            },
+            {
+              "PropertyHash": "4C27A8F9520FD9C3C557112E5F1FCD60",
+              "PropertyName": "Length",
+              "PropertyValue": "1,5"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Basic Wall:Basic Wall:Wand-Int-ERDG-4:212740'"
+            },
+            {
+              "PropertyHash": "C8160060E6DBB2E453BBF4F6DD95C496",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(1.5)"
+            },
+            {
+              "PropertyHash": "2835E004A680F9C4993222283A410EED",
+              "PropertyName": "Width",
+              "PropertyValue": "0,24"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": []
+        },
+        {
+          "WallHash": "ad67550e53c385bb11f74bbcc67e141f80200d24d1f934ec8c53f3c3f2c1a16c",
+          "GlobalId": "'2ptk1k7qn8_Qk22vjh$0DE'",
+          "StartPoint": {
+            "PointHash": "6181FD9D70CE6C6F3DF2959299ADB688",
+            "X": "3,92",
+            "Y": "5,99",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "f73443f7ca1f660e3ad6a79d12d18456",
+            "X": "3,92",
+            "Y": "9,7",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "7D2C76C4A1894119F7E1F60AD45609AC",
+              "PropertyName": "Height",
+              "PropertyValue": "2,5"
+            },
+            {
+              "PropertyHash": "A1AD979C04E80DD6516B9F203D21812E",
+              "PropertyName": "Length",
+              "PropertyValue": "3,71"
+            },
+            {
+              "PropertyHash": "4E63CCFBB76001BF03FF372E39E41C20",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.F.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Int-ERDG-1'"
+            },
+            {
+              "PropertyHash": "C8160060E6DBB2E453BBF4F6DD95C496",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(1.5)"
+            },
+            {
+              "PropertyHash": "2835E004A680F9C4993222283A410EED",
+              "PropertyName": "Width",
+              "PropertyValue": "0,24"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": []
+        },
+        {
+          "WallHash": "a11220226c13006ce73ec5d28d7338163358bb59b26adcf58e7f5f966992a746",
+          "GlobalId": "'3jjW3rL656ex34Gws22EfM'",
+          "StartPoint": {
+            "PointHash": "4F46B14156A46FD5D0858AC14EEC8454",
+            "X": "7,41",
+            "Y": "5,87",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "90edd7a65d8fd99c7d18c7ec830f0e9d",
+            "X": "0,3",
+            "Y": "5,87",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "7D2C76C4A1894119F7E1F60AD45609AC",
+              "PropertyName": "Height",
+              "PropertyValue": "2,5"
+            },
+            {
+              "PropertyHash": "282C15376626D6667173BA11DF39EE2A",
+              "PropertyName": "Length",
+              "PropertyValue": "7,11"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Int-ERDG-3'"
+            },
+            {
+              "PropertyHash": "C8160060E6DBB2E453BBF4F6DD95C496",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(1.5)"
+            },
+            {
+              "PropertyHash": "2835E004A680F9C4993222283A410EED",
+              "PropertyName": "Width",
+              "PropertyValue": "0,24"
+            }
+          ],
+          "AllDoors": [
+            {
+              "DoorHash": "01c14898d293859abe4d45897eafa7c4d34d8e8d518b48eb6b71760f9d5a8188",
+              "GlobalId": "'2qiPPF3FrF8OIqfrKiSUqm'",
+              "StartPoint": {
+                "PointHash": "A9F7E54A1A46897E9D910D64E20896A2",
+                "X": "1,61",
+                "Y": "5,62",
+                "Z": "0,00"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "5C44C4544C4AE24DD015F379096E567A",
+                  "PropertyName": "Height",
+                  "PropertyValue": "2,01"
+                },
+                {
+                  "PropertyHash": "680DEDD6EE841B5B0006D927BC85AE96",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer' und 'Kiefer"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'Innentuer-2 19199:Innentuer-2 19199:207510'"
+                },
+                {
+                  "PropertyHash": "0CAB667E85B22CB7DF281C4624B9CB47",
+                  "PropertyName": "Width",
+                  "PropertyValue": "0,89"
+                }
+              ]
+            },
+            {
+              "DoorHash": "b8bdf5d9af72dbcabbedf6749f84e448c0406859bcb63814311e1fd171b2a45c",
+              "GlobalId": "'0pGAjlJMP3ifYPATVF5xAR'",
+              "StartPoint": {
+                "PointHash": "40405E344D67195C551A1E2BC672D967",
+                "X": "5,22",
+                "Y": "5,62",
+                "Z": "0,00"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "5C44C4544C4AE24DD015F379096E567A",
+                  "PropertyName": "Height",
+                  "PropertyValue": "2,01"
+                },
+                {
+                  "PropertyHash": "680DEDD6EE841B5B0006D927BC85AE96",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer' und 'Kiefer"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'Innentuer-2 19199:Innentuer-2 19199:207509'"
+                },
+                {
+                  "PropertyHash": "0CAB667E85B22CB7DF281C4624B9CB47",
+                  "PropertyName": "Width",
+                  "PropertyValue": "0,89"
+                }
+              ]
+            }
+          ],
+          "AllWindows": []
+        },
+        {
+          "WallHash": "e7a70d241cbcd83251b75ecfef81622ee5ead5a4cfe2812d2a42ef2103f854ea",
+          "GlobalId": "'2XPyKWY018sA1ygZKgQPtU'",
+          "StartPoint": {
+            "PointHash": "9563BF973FFC1CAFF4CB81377203FFE4",
+            "X": "7,41",
+            "Y": "4,13",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "e369ae65ecd567c522c6346cd493e33e",
+            "X": "11,7",
+            "Y": "4,13",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "7D2C76C4A1894119F7E1F60AD45609AC",
+              "PropertyName": "Height",
+              "PropertyValue": "2,5"
+            },
+            {
+              "PropertyHash": "126D6246C28E4F307338E267779CE00E",
+              "PropertyName": "Length",
+              "PropertyValue": "4,29"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Int-ERDG-4'"
+            },
+            {
+              "PropertyHash": "C8160060E6DBB2E453BBF4F6DD95C496",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(1.5)"
+            },
+            {
+              "PropertyHash": "2835E004A680F9C4993222283A410EED",
+              "PropertyName": "Width",
+              "PropertyValue": "0,24"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": []
+        },
+        {
+          "WallHash": "8180c7ea51bba5ef0a450d846bc0f2c3f109564f7a2ae3f548613c6a376407d3",
+          "GlobalId": "'3PfS__Y_DBAfq5naM6zD2Z'",
+          "StartPoint": {
+            "PointHash": "FC4B70C8EEDEE591BEA98BA5E0703750",
+            "X": "7,53",
+            "Y": "4,25",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "dc8aff720954c355cdd160087e5aa506",
+            "X": "7,53",
+            "Y": "9,7",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "7D2C76C4A1894119F7E1F60AD45609AC",
+              "PropertyName": "Height",
+              "PropertyValue": "2,5"
+            },
+            {
+              "PropertyHash": "EFC4F399E12BB00B32BA213D1FC71876",
+              "PropertyName": "Length",
+              "PropertyValue": "5,45"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Int-ERDG-2'"
+            },
+            {
+              "PropertyHash": "C8160060E6DBB2E453BBF4F6DD95C496",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(1.5)"
+            },
+            {
+              "PropertyHash": "2835E004A680F9C4993222283A410EED",
+              "PropertyName": "Width",
+              "PropertyValue": "0,24"
+            }
+          ],
+          "AllDoors": [
+            {
+              "DoorHash": "2c793260bcf7110f37536c6fedf9b51637471a2cea4ad6141c9ea9d4da81bd43",
+              "GlobalId": "'1Oms875aH3Wg$9l65H2ZGw'",
+              "StartPoint": {
+                "PointHash": "773C0893EF1FDB403D8BB506D5240C03",
+                "X": "7,28",
+                "Y": "4,56",
+                "Z": "0,00"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "5C44C4544C4AE24DD015F379096E567A",
+                  "PropertyName": "Height",
+                  "PropertyValue": "2,01"
+                },
+                {
+                  "PropertyHash": "680DEDD6EE841B5B0006D927BC85AE96",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer' und 'Kiefer"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'Innentuer-1 17468:Innentuer-1 17468:207506'"
+                },
+                {
+                  "PropertyHash": "0CAB667E85B22CB7DF281C4624B9CB47",
+                  "PropertyName": "Width",
+                  "PropertyValue": "0,89"
+                }
+              ]
+            }
+          ],
+          "AllWindows": []
+        }
+      ]
+    },
+    {
+      "StoreyHash": "bcddf99501bc4563724b211ca91c5d47a94592eb5b4518920d75b5089147ea01",
+      "StoreyName": "'Dachgeschoss'",
+      "AllWalls": [
+        {
+          "WallHash": "f09afc4b5285f7260d9ffe62be312ccd0a4f7c4399443f2ebe254840606bbf70",
+          "GlobalId": "'25OWQvmXj5BPgyergP43tY'",
+          "StartPoint": {
+            "PointHash": "FAE2B750AAD41970F41B62551424BAE7",
+            "X": "0,00",
+            "Y": "9,85",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "b1711fa241c9320404989ec339a3c7f6",
+            "X": "12",
+            "Y": "9,85",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "B00CAC8057A633E59627D6DF7D113C90",
+              "PropertyName": "Height",
+              "PropertyValue": "0,67"
+            },
+            {
+              "PropertyHash": "676543FF1BF56E89329DB977C7BF983F",
+              "PropertyName": "Length",
+              "PropertyValue": "12"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Ext-OG-2'"
+            },
+            {
+              "PropertyHash": "1FBA7974A9D6663BA02E5F2E66CEF4DC",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(0.4)"
+            },
+            {
+              "PropertyHash": "90B8B59ADE6D43980808461B90A83FC4",
+              "PropertyName": "Width",
+              "PropertyValue": "0,3"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": []
+        },
+        {
+          "WallHash": "5b585249182c10fddc1f7e06065f58f7c0277a6d82010560a02b3570e6a24557",
+          "GlobalId": "'0knNIAVBPBFvBy_m5QVHsU'",
+          "StartPoint": {
+            "PointHash": "9ED84620BC61879EA1182C4FFC9B2AEA",
+            "X": "0,15",
+            "Y": "0,00",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "20bd191090c804fa47dc78e0c3dc01f0",
+            "X": "0,15",
+            "Y": "10",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "C47F8C163604BE8EF4433FB0D4530696",
+              "PropertyName": "Height",
+              "PropertyValue": "3,39"
+            },
+            {
+              "PropertyHash": "3097FDB45F89B34CE54306BDBAF197ED",
+              "PropertyName": "Length",
+              "PropertyValue": "10"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Ext-OG-1'"
+            },
+            {
+              "PropertyHash": "1FBA7974A9D6663BA02E5F2E66CEF4DC",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(0.4)"
+            },
+            {
+              "PropertyHash": "90B8B59ADE6D43980808461B90A83FC4",
+              "PropertyName": "Width",
+              "PropertyValue": "0,3"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": [
+            {
+              "WindowHash": "58aee05ebc68421dd20ed9fc9aac8c4ce4d5858d1503479a5d656f5ddadb84b5",
+              "GlobalId": "'1zOBw0Gej5Wf0QAJfHnOc0'",
+              "StartPoint": {
+                "PointHash": "C8BBB463257C2DF5CC1FCC7F44559B2E",
+                "X": "-0,11",
+                "Y": "5,50",
+                "Z": "0,80"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "FEB2912210F68F91EA2B72D37D6797A3",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1"
+                },
+                {
+                  "PropertyHash": "B102BED42B8E57A6C197E9954AD6DEE1",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer' und 'Glas'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'OG-Fenster-2 66459:OG-Fenster-2 66459:207539'"
+                },
+                {
+                  "PropertyHash": "FEB2912210F68F91EA2B72D37D6797A3",
+                  "PropertyName": "Width",
+                  "PropertyValue": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "WallHash": "768ad687748f62fc5565ff41e6bfbcaf59252d48669d547043f9aed3205dace7",
+          "GlobalId": "'3e9rWi4v13J9DADE7qDVow'",
+          "StartPoint": {
+            "PointHash": "070DD940A19CC4A0778E8B94457F5A68",
+            "X": "0,30",
+            "Y": "5,65",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "522e506ce25443d2bdab31aedc148a11",
+            "X": "3,18",
+            "Y": "5,65",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "7D2C76C4A1894119F7E1F60AD45609AC",
+              "PropertyName": "Height",
+              "PropertyValue": "2,5"
+            },
+            {
+              "PropertyHash": "89D7A1BFEB7B83BA36CB460917139619",
+              "PropertyName": "Length",
+              "PropertyValue": "2,88"
+            },
+            {
+              "PropertyHash": "4E63CCFBB76001BF03FF372E39E41C20",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.F.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Basic Wall:Basic Wall:Wand-Int-ERDG-4:213047'"
+            },
+            {
+              "PropertyHash": "C8160060E6DBB2E453BBF4F6DD95C496",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(1.5)"
+            },
+            {
+              "PropertyHash": "2835E004A680F9C4993222283A410EED",
+              "PropertyName": "Width",
+              "PropertyValue": "0,24"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": []
+        },
+        {
+          "WallHash": "a0dc01d0bd78edb1236757b6fca2f71bc668156ab85d65126d7b1e3f85c619e3",
+          "GlobalId": "'3VCarUKgH1buLo22Ozxe6J'",
+          "StartPoint": {
+            "PointHash": "ADAE7D692F1F6D51E35E8A472A46D985",
+            "X": "11,85",
+            "Y": "10,00",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "2aef81fb67873e7b9566e356a5efef48",
+            "X": "11,85",
+            "Y": "0",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "C47F8C163604BE8EF4433FB0D4530696",
+              "PropertyName": "Height",
+              "PropertyValue": "3,39"
+            },
+            {
+              "PropertyHash": "3097FDB45F89B34CE54306BDBAF197ED",
+              "PropertyName": "Length",
+              "PropertyValue": "10"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Ext-OG-3'"
+            },
+            {
+              "PropertyHash": "1FBA7974A9D6663BA02E5F2E66CEF4DC",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(0.4)"
+            },
+            {
+              "PropertyHash": "90B8B59ADE6D43980808461B90A83FC4",
+              "PropertyName": "Width",
+              "PropertyValue": "0,3"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": [
+            {
+              "WindowHash": "02f0d92281f7e5621e9ea4ac3198e4865212fcd6f19734f96941f15858e6f474",
+              "GlobalId": "'2ACmFFQhT1Ouf0x4YRUh9m'",
+              "StartPoint": {
+                "PointHash": "778FC00BB2427B60086E3D557464EC56",
+                "X": "12,11",
+                "Y": "6,85",
+                "Z": "0,42"
+              },
+              "AllProperties": [
+                {
+                  "PropertyHash": "FEB2912210F68F91EA2B72D37D6797A3",
+                  "PropertyName": "Height",
+                  "PropertyValue": "1"
+                },
+                {
+                  "PropertyHash": "B102BED42B8E57A6C197E9954AD6DEE1",
+                  "PropertyName": "Material",
+                  "PropertyValue": "'Kiefer' und 'Glas'"
+                },
+                {
+                  "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+                  "PropertyName": "Name",
+                  "PropertyValue": "'OG-Fenster-1 74280:OG-Fenster-1 74280:207540'"
+                },
+                {
+                  "PropertyHash": "FEB2912210F68F91EA2B72D37D6797A3",
+                  "PropertyName": "Width",
+                  "PropertyValue": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "WallHash": "185ba1ebf7333f5e83b03113cce78a817594912e2ac609a96b0e751b8418328f",
+          "GlobalId": "'3Ttjr$59XEWfWN1WUHjelZ'",
+          "StartPoint": {
+            "PointHash": "3A200B012B0CF6C4513DC760CD2EB059",
+            "X": "12,00",
+            "Y": "0,15",
+            "Z": "0,00"
+          },
+          "EndPoint": {
+            "PointHash": "d65a2abd225721a37f010215a76a84a4",
+            "X": "0",
+            "Y": "0,15",
+            "Z": "0"
+          },
+          "AllProperties": [
+            {
+              "PropertyHash": "B00CAC8057A633E59627D6DF7D113C90",
+              "PropertyName": "Height",
+              "PropertyValue": "0,67"
+            },
+            {
+              "PropertyHash": "676543FF1BF56E89329DB977C7BF983F",
+              "PropertyName": "Length",
+              "PropertyValue": "12"
+            },
+            {
+              "PropertyHash": "F49EB9E6CF04FB0ABBDE9BD28EF7A72F",
+              "PropertyName": "'LoadBearing'",
+              "PropertyValue": "IFCBOOLEAN(.T.)"
+            },
+            {
+              "PropertyHash": "A6FB925B7D417D9143AAACEF4A0D899A",
+              "PropertyName": "Material",
+              "PropertyValue": "'Beton'"
+            },
+            {
+              "PropertyHash": "D41D8CD98F00B204E9800998ECF8427E",
+              "PropertyName": "Name",
+              "PropertyValue": "'Wand-Ext-OG-4'"
+            },
+            {
+              "PropertyHash": "1FBA7974A9D6663BA02E5F2E66CEF4DC",
+              "PropertyName": "'ThermalTransmittance'",
+              "PropertyValue": "IFCTHERMALTRANSMITTANCEMEASURE(0.4)"
+            },
+            {
+              "PropertyHash": "90B8B59ADE6D43980808461B90A83FC4",
+              "PropertyName": "Width",
+              "PropertyValue": "0,3"
+            }
+          ],
+          "AllDoors": [],
+          "AllWindows": []
+        }
+      ]
+    }
+  ]
+}
